@@ -3,7 +3,7 @@
     <Platform Name="Any CPU" />
     <Platform Name="x64" />
   </Configurations>
-  <Project Path="TelekinesisBall/TelekinesisBall.csproj">
+  <Project Path="TelekinesisBall/TelekinesisBall.csproj" Id="d7579c4e-9545-4605-bbeb-c1d2c44a814c">
     <Platform Solution="*|x64" Project="x64" />
   </Project>
 </Solution>

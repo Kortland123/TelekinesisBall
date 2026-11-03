@@ -21,6 +21,7 @@ namespace TelekinesisBall
             );
 
             TelekinesisFeature.Initialize(_harmony);
+            HeadbuttBuff.Initialize(_harmony);
 
             MelonLogger.Msg(
                 "[TelekinesisBall] Mod successfully initialized."
